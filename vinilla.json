@@ -1,0 +1,13 @@
+{
+    "name": "container",
+    "vendor": "Psr",
+    "description": "Common Container Interface (PHP FIG PSR-11) Fork",
+    "repo_url": "https://github.com/coding-liki/container.git",
+    "version": "0.1",
+    "psr-4": {
+      "Psr\\Container\\": "src/"
+    },
+    "depends_on": {
+      "CodingLiki/OoAutoloader"
+    ]
+}
