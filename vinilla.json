@@ -7,7 +7,7 @@
     "psr-4": {
       "Psr\\Container\\": "src/"
     },
-    "depends_on": {
+    "depends_on": [
       "CodingLiki/OoAutoloader"
     ]
 }
